@@ -1,0 +1,27 @@
+body{
+
+}
+
+
+.container{
+    display: flex;
+    flex-direction: column;
+    height: 200px;
+    width: 600px;
+    justify-content: space-between;
+    background-color:red
+}
+
+.box1{
+    height: 20px;
+    width: 600px;
+    background-color: blueviolet;
+
+}
+
+.box2{
+    height: 20px;
+    width: 600px;
+    background-color: blueviolet;
+
+}
